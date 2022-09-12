@@ -1,7 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
 
+/**
 
+ *Print statement using printf funtion
+
+ */
 
 int main(void)
 
