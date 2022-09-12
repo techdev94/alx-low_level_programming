@@ -2,7 +2,11 @@
 
 /**
 
- *Print statement using printf funtion
+ *main - entry point of program
+
+ *printf task
+
+ *return: return 1 after program execution
 
  */
 
