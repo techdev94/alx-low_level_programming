@@ -6,13 +6,7 @@
  * Return: Always 0.
  */
 
-int add(int, int)
+int add(int a, int b)
 {
-int result;
-result = int + int;
-
-_putchar(result);
-
-_putchar('\n');
-
+return (a + b);
 }
